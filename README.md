@@ -16,8 +16,6 @@ As I'm unable to contribute as much as I'd like to be able to these days due to 
   * Legacy Firmware Releases:
     * [RG-350 / RG-350 M](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/README.md#rg-350--rg-350-m)
   
-    * [PlayGo / Pocket Go 2 / Miyoo Max](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/README.md#playgo--pocket-go-2--miyoo-max)
-  
     * [GCW Zero](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/README.md#gcw-zero)
 
 * [Games & Ports](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/README.md#games--ports)
