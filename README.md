@@ -5,10 +5,10 @@ These are all ports for GCW0/RG350, which I can find. Some tested, other not. So
 ### Table of Contents
 
 * [Firmwares & Updates](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/README.md#firmwares--updates)
-  * [UPDATE: Current OpenDingux](https://github.com/SeongGino/RetroGame350-AppRepo#update-current-opendingux)
+  * [Current OpenDingux](https://github.com/SeongGino/RetroGame350-AppRepo#update-current-opendingux)
   
   * Legacy Firmware Releases:
-    * [RG-350 / RG-350 M](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/README.md#rg-350--rg-350-m)
+    * [RG-350/P/M](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/README.md#rg-350--rg-350-m)
   
     * [GCW Zero](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/README.md#gcw-zero)
 
