@@ -38,44 +38,33 @@ It is [***highly recommended***](https://old.reddit.com/r/RG350/comments/f5v25n/
 
 ## Firmwares & Updates
 
-### UPDATE: Current OpenDingux
+### Current OpenDingux
 
-As of October 7th, the firmwares for the **RG-350, RG-350M, and GCW Zero** *[are now merged under the new-and-improved upstream OpenDingux.](https://zcrc.me/opendingux/2020/10/13/we-have-nighties.html)* Currently, these are considered ***ALPHA QUALITY*** and will be unstable in many ways compared to the individual device releases below, but can introduce anywhere from small to significant improvements in performance, functionality, and is overall much less of a headache to manage than the different forks for different devices. Eventually, *this will become the new standard firmware for OpenDingux-based devices;* however, like any change, this will be a transitionary period until the upstream OpenDingux is considered stable.
-
-Once again, these releases **are alpha** and can/(probably) will crash or corrupt things, so if you choose to do this, *either backup your internal SD card's contents,* or *use a different internal SD card for current OpenDingux.* These are distributed as OPK updaters; it's recommended you be running the latest *legacy* firmware for your device of choice to ensure everything is functioning as intended before updating to *current.*
 
 | Version | OPK Update |
 |---------|-----------:|
-[Nightly](https://boards.dingoonity.org/gcw-general/opendingux-beta-nighty-builds/) | [OPK Update](http://od.abstraction.se/opendingux/latest/)
+[2022] | [OPK Update](https://github.com/OpenDingux/buildroot/releases/tag/od-2022.09.22)
 
 
-*Base Images:* For either new SD Cards, or corrupted/old in-use internal cards that may need a full update. Requires using a PC with an SD Reader/Adapter. Comes with built-in apps. Typically only provided for Major version updates.
+[Guide] (https://retrogamecorps.com/2020/12/05/opendingux-beta-firmware-for-rg350-and-rg280-devices/)
 
-*OPK Updater:* Runs directly on the console (usually from an external card) that only updates the kernel and other related important files that need updating. Typically provided as an alternative for Major version updates, or Minor/Patch-level updates. Does *NOT* require installing previous updates, unless explicitly noted.
-
-***NOTE:*** If you use the Base Image on a new/old SD card, it is **highly** recommended that, for best results, you wipe the existing games/emulator versions bundled and provide the versions listed in this repo.
-
-### RG-350 / RG-350 M
+### RG-350/P/M
 
 | Version | Base Image | OPK Update |
 |---------|:----------:|------------:|
-[1.5](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/!RG-350_UpdateLogs/Firmware%201.5%20Changelog.txt) | [1.5_SD Card Image](https://drive.google.com/open?id=1DZGJtw6nMVaAT8PHUBasiOrCKcnZ1s70) | N/A
-[1.5.1](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/!RG-350_UpdateLogs/Firmware%201.5.1%20Changelog.txt) | N/A | [1.5.1_OPK Updater](https://drive.google.com/open?id=1YlMs_L-1xVXa-pbjlkNViQPahdoC_Y8n)
-[HDMI (BETA)](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/!RG-350_UpdateLogs/HDMI%20Updater%20Notes.md) | N/A | [HDMI Updater (RG-350)](https://drive.google.com/file/d/1Y1gCNGiedtYBP7lnGW7kd9S_5fYQwfaL/view) & [HDMI Updater (RG-350 M)](https://drive.google.com/file/d/1fI-sePexfwJgKJBHSPAeBD8MgKCgrjAn/view)
-
-### PlayGo / Pocket Go 2 / Miyoo Max
-
-| Version | Base Image |
-|---------|-----------:|
-Stock | [SD Card Image](https://drive.google.com/open?id=1Ihd6T_dR5CigcxlKQWuVsKTv5y5dHcjY)
-
-*Follow [the instructions for SD Card Image flashing from the RG-350](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/!RG-350_UpdateLogs/Firmware%201.5%20Changelog.txt) for reverting to stock PG2 firmware.
+[Rogue 1.7.15](https://github.com/Ninoh-FOX/RG350-ROGUE-CFW) | [350 Image](https://github.com/Ninoh-FOX/RG350-ROGUE-CFW/releases/download/1.7.15/sd_image_RG350.bin) | [350 OPK](https://github.com/Ninoh-FOX/RG350-ROGUE-CFW/releases/download/1.7.15/rg350-update-1.7.15-2021-08-14.opk)
+[Rogue 1.7.15](https://github.com/Ninoh-FOX/RG350-ROGUE-CFW) | [350P Image](https://github.com/Ninoh-FOX/RG350-ROGUE-CFW/releases/download/1.7.15/sd_image_RG350m.bin) | [350 OPK](https://github.com/Ninoh-FOX/RG350-ROGUE-CFW/releases/download/1.7.15/rg350p-update-1.7.15-2021-08-14.opk)
+[Rogue 1.7.15](https://github.com/Ninoh-FOX/RG350-ROGUE-CFW) | [350M Image](https://github.com/Ninoh-FOX/RG350-ROGUE-CFW/releases/download/1.7.15/sd_image_RG350p.bin) | [350 OPK](https://github.com/Ninoh-FOX/RG350-ROGUE-CFW/releases/download/1.7.15/rg350m-update-1.7.15-2021-08-14.opk)
 
 ### GCW Zero
 
 | Version | OPK Update |
 |---------|------------:|
 [08-20-2014](http://www.gcw-zero.com/updates) | [OPK Updater](http://www.gcw-zero.com/files/gcw0-update-2014-08-20.opk)
+
+*Base Images:* For either new SD Cards, or corrupted/old in-use internal cards that may need a full update. Requires using a PC with an SD Reader/Adapter. Comes with built-in apps. Typically only provided for Major version updates.
+
+*OPK Updater:* Runs directly on the console (usually from an external card) that only updates the kernel and other related important files that need updating. Typically provided as an alternative for Major version updates, or Minor/Patch-level updates. Does *NOT* require installing previous updates, unless explicitly noted.
 
 ---
 
