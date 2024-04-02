@@ -1,12 +1,6 @@
 # OpenDingux Application Repo
 
-These are all ports with the best available binaries (.OPKs), at least from my (Seong's) personal testing. Sources (whenever applicable) and activity are listed wherever possible, to hopefully encourage further development of applications for the new generation of OpenDingux-based handhelds; primarily the Anbernic RG-350, but these are also known to work on the BittBoy Pocket Go 2 / Wolsen PlayGo / Miyoo Max, and may also (though not always) retain compatibility with the GCW Zero. **Do note, however, that the Game Kiddy 350H - another handheld that runs OpenDingux - is known to have compatibility issues with many software that use IPU scaling or GPU functions.**
-
-#### Contributing
-
-As I'm unable to contribute as much as I'd like to be able to these days due to conflicting interests, I welcome pull requests from other users who have new releases. For contributors, before forking, *please* follow the format [as written in the Wiki.](https://github.com/SeongGino/RetroGame350-AppRepo/wiki)
-
-**I'd appreciate it if we *didn't* fork, kthx? Let's prevent confusion for new users as much as we can, and contribute to one central repo.**
+These are all ports for GCW0/RG350, which I can find. Some tested, other not. Sources are listed wherever possible, to hopefully encourage further development of applications.
 
 ### Table of Contents
 
