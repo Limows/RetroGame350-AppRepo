@@ -45,7 +45,7 @@ It is [***highly recommended***](https://old.reddit.com/r/RG350/comments/f5v25n/
 ### RG-350/P/M
 
 | Version | Base Image | OPK Update |
-|---------|:----------:|------------:|
+|---------|:----------:|:------------:|
 [Rogue 1.7.15](https://github.com/Ninoh-FOX/RG350-ROGUE-CFW) | [350 Image](https://github.com/Ninoh-FOX/RG350-ROGUE-CFW/releases/download/1.7.15/sd_image_RG350.bin) | [350 OPK](https://github.com/Ninoh-FOX/RG350-ROGUE-CFW/releases/download/1.7.15/rg350-update-1.7.15-2021-08-14.opk)
 [Rogue 1.7.15](https://github.com/Ninoh-FOX/RG350-ROGUE-CFW) | [350P Image](https://github.com/Ninoh-FOX/RG350-ROGUE-CFW/releases/download/1.7.15/sd_image_RG350m.bin) | [350 OPK](https://github.com/Ninoh-FOX/RG350-ROGUE-CFW/releases/download/1.7.15/rg350p-update-1.7.15-2021-08-14.opk)
 [Rogue 1.7.15](https://github.com/Ninoh-FOX/RG350-ROGUE-CFW) | [350M Image](https://github.com/Ninoh-FOX/RG350-ROGUE-CFW/releases/download/1.7.15/sd_image_RG350p.bin) | [350 OPK](https://github.com/Ninoh-FOX/RG350-ROGUE-CFW/releases/download/1.7.15/rg350m-update-1.7.15-2021-08-14.opk)
@@ -65,20 +65,20 @@ It is [***highly recommended***](https://old.reddit.com/r/RG350/comments/f5v25n/
 ## Games & Ports
 
 | Name | OPK Link | Source | Requires Data Files | Tested |
-|----------|:----:|:------:|---------------------:|:----:|
-AAAA (Adamant Armor Affection Adventure) | [Latest](https://github.com/0x64c/aaaa-gcw0/releases/latest) | [Inactive](https://github.com/0x64c/aaaa-gcw0) | No
-Abuse* | [Latest](https://drive.google.com/open?id=1iILjTghcEt90zcsMCN10MChG0fFQCkTB) | Inactive (Source N/A) | No | Yes |
-Another World | [Latest](https://github.com/jezze/Another-World-Bytecode-Interpreter/releases) | [Active](https://github.com/jezze/Another-World-Bytecode-Interpreter) | Another World Data Files (`BANK*`, `MEMLIST.BIN`), `~/.aw/`
-Arkanoid | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Arkanoid.opk) | Legacy (Source N/A) | No
-Atomix | [Latest](https://github.com/goldmojo/Atomiks/releases) | [Active](https://github.com/goldmojo/Atomiks) | No
-BlockRage | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Blockrage.opk) | Legacy (Source N/A) | No
-Bubble Bobble Remake | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Bubble%20Bobble%20Remake.opk) | Legacy (Source N/A) | No
-Cannonball* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/cannonball.opk) | [Inactive](https://github.com/gameblabla/Cannonballs) | OutRun (sitdown/upright, Rev B) Data Files (Unzipped), `~/.cannonball/roms/`
-Cannon Fodder | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/cannonfodder.opk) | Legacy (Source N/A) | No
-Cave Story (NXEngine) | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/CaveStory.opk) | Inactive (Source N/A) | No
-C-Dogs SDL | [0.6.6](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/cdogs-sdl_0.6.6.opk) | [Inactive (Upstream Deprecated)](https://github.com/cxong/cdogs-sdl) | No
-Chocolate Doom** *** | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/ChocolateDOOM_2013-06-12-aliasfilter.opk) | Inactive (Source N/A) | No
-Commander Genius | [Latest](https://github.com/goldmojo/Commander-Genius/releases) | [Active](https://github.com/goldmojo/Commander-Genius) | Commander Keen (1-6, Dreams) Data Files, `~/.CommanderGenius/games/`
+|----------|:----:|:------:|---------------------:|----:|
+AAAA (Adamant Armor Affection Adventure) | [Latest](https://github.com/0x64c/aaaa-gcw0/releases/latest) | [Available](https://github.com/0x64c/aaaa-gcw0) | No | Yes |
+Abuse* | [Latest](https://drive.google.com/open?id=1iILjTghcEt90zcsMCN10MChG0fFQCkTB) | Source N/A | No | Yes |
+Another World | [Latest](https://github.com/jezze/Another-World-Bytecode-Interpreter/releases) | [Available](https://github.com/jezze/Another-World-Bytecode-Interpreter) | Another World Data Files (`BANK*`, `MEMLIST.BIN`), `~/.aw/` | No |
+Arkanoid | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Arkanoid.opk) | Source N/A | No | Yes |
+Atomix | [Latest](https://github.com/goldmojo/Atomiks/releases) | [Available](https://github.com/goldmojo/Atomiks) | No | Yes |
+BlockRage | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Blockrage.opk) | [Available](https://github.com/zear/blockrage) | No | Yes |
+Bubble Bobble Remake | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Bubble%20Bobble%20Remake.opk) | Source N/A | No | Controls not working correctly |
+Cannonball* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/cannonball.opk) | [Available](https://github.com/gameblabla/Cannonballs) | OutRun (sitdown/upright, Rev B) Data Files (Unzipped), `~/.cannonball/roms/` | No |
+Cannon Fodder | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/cannonfodder.opk) | LSource N/A | No | No |
+Cave Story (NXEngine) | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/CaveStory.opk) | [Available](https://github.com/EXL/NXEngine) | No | Yes |
+C-Dogs SDL | [0.6.6](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/cdogs-sdl_0.6.6.opk) | [Available](https://github.com/cxong/cdogs-sdl) | No | Yes |
+Chocolate Doom** *** | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/ChocolateDOOM_2013-06-12-aliasfilter.opk) | Source N/A | No | No |
+Commander Genius | [Latest](https://github.com/goldmojo/Commander-Genius/releases) | [Available](https://github.com/goldmojo/Commander-Genius) | Commander Keen (1-6, Dreams) Data Files, `~/.CommanderGenius/games/` | Yes |
 Descent 1 (d1x)** | [RetroFW ver.](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/d1x-rebirth.opk) | Inactive (Source N/A) | (Optional) Descent Data Files, `~/.d1x-rebirth/`, will fallback to built-in Shareware if not found.
 Descent 2 (d2x)* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/d2x-rebirth.opk) | [Legacy](https://boards.dingoonity.org/gcw-general/looking-for-working-descent-2-opk/) | (Optional) Descent 2 Data Files, `~/.d2x-rebirth/`, will fallback to built-in Shareware if not found.
 DevilutionX* | [Latest](https://github.com/diasurgical/devilutionX/releases) | [Upstream](https://github.com/diasurgical/devilutionX) | Diablo 1.09b Data File, `~/.local/share/diasurgical/devilution/diabdat.mpq`
