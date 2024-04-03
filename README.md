@@ -64,10 +64,10 @@ It is [***highly recommended***](https://old.reddit.com/r/RG350/comments/f5v25n/
 
 ## Games & Ports
 
-| Name | OPK Link | Source | Requires Data Files? |
-|----------|:----:|:------:|---------------------:|
+| Name | OPK Link | Source | Requires Data Files | Tested |
+|----------|:----:|:------:|---------------------:|:----:|
 AAAA (Adamant Armor Affection Adventure) | [Latest](https://github.com/0x64c/aaaa-gcw0/releases/latest) | [Inactive](https://github.com/0x64c/aaaa-gcw0) | No
-Abuse* | [Latest](https://drive.google.com/open?id=1iILjTghcEt90zcsMCN10MChG0fFQCkTB) | Inactive (Source N/A) | No
+Abuse* | [Latest](https://drive.google.com/open?id=1iILjTghcEt90zcsMCN10MChG0fFQCkTB) | Inactive (Source N/A) | No | Yes |
 Another World | [Latest](https://github.com/jezze/Another-World-Bytecode-Interpreter/releases) | [Active](https://github.com/jezze/Another-World-Bytecode-Interpreter) | Another World Data Files (`BANK*`, `MEMLIST.BIN`), `~/.aw/`
 Arkanoid | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Arkanoid.opk) | Legacy (Source N/A) | No
 Atomix | [Latest](https://github.com/goldmojo/Atomiks/releases) | [Active](https://github.com/goldmojo/Atomiks) | No
